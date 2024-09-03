@@ -1,2 +1,2 @@
 # RF-Attenuator
-RF Attenuator
+RF Step Attenuator
